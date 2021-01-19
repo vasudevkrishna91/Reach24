@@ -1,0 +1,270 @@
+/* .insurer_popup {
+  background: #fff;
+  max-width: 485px;
+  border-radius: 10px;
+  box-shadow: 0px 6px 30px #00000029;
+  padding: 0px;
+  color: #253858;
+  font-weight: 500;
+  margin: 40px auto;
+  width: 90%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1032;
+  overflow-x: hidden;
+  overflow-y: auto;
+} */
+
+/* .si_popup {
+  min-width: 744px;
+} */
+
+.get_discount {
+  /* margin-top: 205px; */
+  /* top: 61px; */
+  /* box-shadow: none; */
+  /* margin-left: 265px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #0662f6;
+  background: white;
+  
+  padding: 8px 49px;
+  border: none;
+  cursor: pointer; */
+}
+
+.traveller_group ul li {
+  display: inline-block;
+  padding: 2px;
+  width: 105px;
+  height: 43px;
+  margin: 16px;
+}
+
+div .traveller_group {
+  margin: 26px;
+}
+
+div .family_group {
+  margin: 20px;
+}
+
+.modal-body .traveller_group{margin:0}
+.modal-body .traveller_group h6 {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+.modal-body .traveller_group .ul {
+  float: left;
+    width: 100%;
+    margin: 0 0 15px 0;
+    padding: 0;
+}
+.modal-body .traveller_group .row.li {
+  position: relative;
+    border: none;
+    background-color: #ffffff;
+    color: #253858;
+    font-size: 14px;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0;
+    padding: 8px 0;
+    font-weight: 500;
+}
+.modal-body .traveller_group .row.li:last-child{
+  border-bottom: none;
+}
+.modal-body .traveller_group .row.li .check input[type="checkbox"] {
+  top: 2px;
+  position: relative;
+}
+.modal-body .traveller_group .row.li .fmlyname p {
+  font-weight: normal;
+}
+.modal-body .traveller_group ul li input[type="checkbox"] {
+  margin-right: 5px;
+  position: relative;
+  top: 2px;
+  float: left;
+}
+.modal-body .traveller_group ul li p {
+  font-weight: normal;
+}
+
+.modal-body .family_container {
+  text-align: center;
+  min-height: 70px;
+  border: 1px dashed #b3bac5;
+  background: #F4F5F7;
+  position: relative;
+  padding: 15px;
+  padding-bottom: 80px;
+}
+.modal-body .family_container .bttnBox {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+}
+.modal-body .family_container h3{text-align: left; padding: 0; margin-bottom: 15px; font-size: 14px;}
+.modal-body .family_container .bttnBox button {
+  font-size: 14px;
+}
+.modal-body .family_container .bttnBox button.addFamily {
+  background: none;
+  color: #0065ff;
+  border: 1px solid #0065ff;
+  font-weight: 500;
+}
+.modal-body .family_container .bttnBox button.addFamily:hover, 
+.modal-body .family_container .bttnBox button.addFamily:focus {
+  color: #fff;
+  background: #0065ff;
+  border: 1px solid #0065ff;
+  font-weight: 500;
+}
+.modal-body .family_group{
+  clear: both; margin: 0;
+}
+.modal-body .family_traveler{
+  padding: 0;
+  margin: 5px 0;
+  text-align: left;
+}
+.modal-body .family_traveler .fmlyname{
+font-weight: 500;
+}
+.modal-body .family_traveler .selectBox {
+  padding-right: 20px;
+}
+.modal-body .family_traveler small {
+  display: block;
+}
+.repeatFamily{position: relative; margin-bottom: 10px;}
+.repeatFamily:last-child{margin-bottom: 0;}
+.repeatFamily i.fa {
+  position: absolute;
+  right: 15px;
+  color: red;
+  top: 9px;
+}
+.modal-body .btnDiv {
+  text-align: center;
+}
+.modal-body .btnDiv button {
+  margin: 5px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.modal-body .btnDiv button.create-family {
+  background: none;
+  border: none;
+  box-shadow: none;
+  color: #0065ff; font-weight: normal;
+}
+
+.family_container {
+  border: 1px solid #c7c5c5;
+  /* background-color: #f9f6f6; */
+  padding: 0px 11px;
+  margin-bottom: 12px;
+}
+
+div .family_container h3 {
+  font-size: 20px;
+  padding: 11px 4px;
+}
+
+
+
+.add_member {
+  color: #0662f6;
+  border: 1px solid #0662f6;
+  background: white;
+  font-size: 17px;
+  border-radius: 5px;
+  padding: 6px 8px;
+  margin-left: 257px !important;
+  margin: 11px 0px;
+  cursor: pointer;
+}
+.move_family {
+  color: blue;
+  border: 1px solid blue;
+  background: white;
+  font-size: 17px;
+  border-radius: 5px;
+  padding: 6px 8px;
+  margin-left: 257px !important;
+  margin: 11px 0px;
+  cursor: pointer;
+}
+
+div.family_traveler{
+  padding: 12px 15px;
+}
+
+.family_traveler span {
+  font-size: 16px;
+  margin-right: 17px;
+}
+
+.family_traveler select {
+  /* float: right;
+  margin: -46px 21px;
+  padding: 3px 15px;
+  font-size: 15px;
+  border: 1px solid #bdbdbd; */
+}
+
+.family_traveler i {
+  /* float: right;
+  font-weight: 800;
+  cursor: pointer;
+  margin: -43px 0px; */
+}
+
+.family_traveler ul li {
+  padding: 12px 15px;
+  border-bottom: 1px solid #a59696;
+}
+
+.create-family {
+  /* margin-left: 280px !important;
+  margin: 33px;
+  font-size: 17px;
+  border: none;
+  background: white;
+  color: #0662f6;
+  cursor: pointer; */
+}
+
+input[type="checkbox"] {
+}
+.modal-header .close{margin:-1px 0 0 0;}
+.delete_family {
+  border: 1px solid;
+  border-radius: 100px;
+  font-style: normal;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 18px;
+  height: 18px;
+  text-align: center;
+  line-height: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #0065ff;
+}
+
+.family_traveler span.traveler_age {
+  display: block;
+}
+
+.traveler_checkbox {
+}

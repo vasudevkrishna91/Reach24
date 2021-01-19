@@ -1,0 +1,249 @@
+/* @media only screen and (max-width: 767px) {
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+} */
+
+
+@media (max-width: 768px){
+  .chipsMobileDisplay {
+      display: inline-flex;
+      overflow: auto;
+      width: 100%;
+  }
+
+  .chipsMobileDisplay {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+
+  .chipsMobileDisplay::-webkit-scrollbar {
+    display: none;
+  }
+}
+.btn {
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  font-weight: 300;
+  display: inline-block;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  font-size: 16px;
+  padding: 8px 12px;
+  min-width: 160px;
+  line-height: 1.6;
+  max-width: 100%;
+  border: solid 1px transparent;
+  border-radius: 4px;
+  background: #0065ff;
+  color: #ffffff;
+}
+
+.btn:hover,
+.btn:active {
+  background: #0051cc;
+  color: #ffffff;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.drop_down {
+  border: 1px solid #25385833;
+  font-size: 14px;
+  color: #253858;
+  height: 48px;
+  width: auto;
+  background: url(../../../../../assets/images/drop-down-arrow.png) no-repeat 130px 22px !important;
+  padding-left: 7px;
+}
+
+.si_heading {
+  border-bottom: 1px solid #25385833;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.si_wrapper p {
+  font-size: 12px;
+  padding: 10px 0px;
+  color: #7a869a;
+  font-weight: 400;
+}
+
+.si_wrapper label {
+  font-size: 12px;
+  padding-right: 20px;
+  color: #253858;
+}
+
+.si_slect {
+  background-position: 220px 22px !important;
+  width: 245px;
+  margin-left: 23px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.chip_text {
+  color: #253858 !important;
+  padding-bottom: 7px !important;
+}
+
+.si_chip_wrapper span {
+  border: 1px solid #7a869a;
+  width: 120px;
+  height: 36px;
+  border-radius: 36px;
+  display: inline-block;
+  margin: 0px 0px 15px 11px;
+  text-align: center;
+  line-height: 34px;
+  color: #7a869a;
+}
+
+.si_chip_wrapper span.active {
+  border-color: #0065ff !important;
+  color: #0065ff !important;
+  background-color: transparent !important;
+}
+
+.si_chip_wrapper span:nth-child(1) {
+  margin-left: 0px;
+}
+
+.si_chip_wrapper span:nth-child(4) {
+  margin-left: 0px;
+}
+
+/* .si_popup {
+  min-width: 624px;
+} */
+
+/* .si_popup .clear_all {
+  margin-left: 30%;
+} */
+
+/* .editCountryModal {
+  background-color: white;
+  margin: 1.75rem auto;
+} */
+
+.MostPopularCountryList .countryChip {
+  text-transform: capitalize;
+}
+
+.editCountryModal {
+  background-color: white;
+  max-width: 784px;
+  margin: 6rem auto;
+  border-radius: 10px;
+  padding: 20px;
+  width: 90%;
+  overflow: auto;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  position: relative;
+}
+
+.editCountryModal .CountryModal {
+  border: 0px;
+  padding: 0px;
+  width: 733px;
+  /* min-height: 320px; */
+  float: none;
+}
+
+.editCountryModal button.next {
+  margin-right: 13px;
+}
+
+.editCountryModal button.next::after {
+  content: "";
+  float: left;
+  display: inline-block;
+}
+
+.editCountryModal .autocomplet_input {
+  border: 1px solid #707070;
+  width: 100%;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px; 
+  float: none;
+}
+
+.editCountryModal .country_bottom_text {
+  display: none;
+}
+
+.editCountryModal .CountryModal {
+  text-transform: capitalize;
+}
+
+.quotes_member_info p {
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  /* max-width: 220px; */
+  font-size: 14px;
+}
+
+.quotes_member_info .edit {
+  border: 1px solid #0662f6;
+  border-radius: 4px;
+  text-align: center;
+  padding: 5px 15px;
+  position: absolute;
+  top: -16px;
+
+  right: -14px;
+}
+
+.editCountryModal .country_list_wrapper {
+  padding: 0px;
+}
+
+.editCountryModal .country_list_wrapper {
+  min-width: 724px;
+}
+
+.country_list_wrapper + div {
+  max-height: 246px !important;
+}
+.editCountryModal .quotes_member_info span {
+  margin: -12px -17px 0px 0px;
+}
+.editCountryModal .country_error_msg {
+  padding-left: 0px;
+}
+
+@media (max-width: 768px) {
+  .editCountryModal {
+    width: 100%;
+    border-radius: 0;
+    min-height: 100%;
+    margin: 0;
+  }
+  .editCountryModal .CountryModal {
+    width: 100%;
+  }
+  .editCountryModal .autocomplet_input {
+    border: 1px solid #707070;
+    width: 100%;
+    padding: 8px;
+    border-radius: 8px;
+    margin-top: 25px;
+  }
+}

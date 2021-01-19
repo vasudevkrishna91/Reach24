@@ -1,0 +1,77 @@
+{
+    "pinCodes": [
+        {
+            "pincode": 221201,
+            "cities": [
+                {
+                    "cityID": 525,
+                    "city": "Varanasi",
+                    "stateID": 32,
+                    "state": "Uttar Pradesh"
+                }
+            ]
+        },
+        {
+            "pincode": 221202,
+            "cities": [
+                {
+                    "cityID": 525,
+                    "city": "Varanasi",
+                    "stateID": 32,
+                    "state": "Uttar Pradesh"
+                }
+            ]
+        },
+        {
+            "pincode": 221204,
+            "cities": [
+                {
+                    "cityID": 525,
+                    "city": "Varanasi",
+                    "stateID": 32,
+                    "state": "Uttar Pradesh"
+                }
+            ]
+        },
+        {
+            "pincode": 221206,
+            "cities": [
+                {
+                    "cityID": 525,
+                    "city": "Varanasi",
+                    "stateID": 32,
+                    "state": "Uttar Pradesh"
+                }
+            ]
+        },
+        {
+            "pincode": 221207,
+            "cities": [
+                {
+                    "cityID": 525,
+                    "city": "Varanasi",
+                    "stateID": 32,
+                    "state": "Uttar Pradesh"
+                }
+            ]
+        },
+        {
+            "pincode": 221208,
+            "cities": [
+                {
+                    "cityID": 525,
+                    "city": "Varanasi",
+                    "stateID": 32,
+                    "state": "Uttar Pradesh"
+                }
+            ]
+        }
+    ],
+    "hasError": false,
+    "errorCode": 0,
+    "returnValue": null,
+    "proposerID": 0,
+    "encryptedProposerID": null,
+    "enquiryID": 0,
+    "redirectURL": null
+}

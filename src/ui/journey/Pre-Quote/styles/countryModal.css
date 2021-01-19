@@ -1,0 +1,348 @@
+
+.country_wpapper h5 {
+    letter-spacing: 0.2px;
+    font-size: 14px;
+}
+.back_button{    float: right;
+    margin-top: -28px;
+}
+
+.withInIndia{ margin: 0px !important}
+
+ul.CountryListing {
+    float: left;
+    float: left;
+    width: 100%;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul.CountryListing li {
+    width: 25%;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    text-align: left;
+    font-size: 14px;
+    line-height: 25px;
+    cursor: pointer;
+   letter-spacing: 0.2px;
+}
+
+.country_wpapper {
+    position: absolute;
+    top: 87px;
+    display: block;
+    background: #FFFFFF;
+    width: 784px;
+    padding: 20px;
+    border-radius: 12px;
+    -webkit-box-shadow: 8px 8px 12px #0065FF29;
+    box-shadow: 8px 8px 12px #0065FF29;
+    left: 0;
+    -webkit-transition-timing-function: ease;
+}
+
+.country_wpapper .proceed_btn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: url(../../../../assets/images/sprite.png) no-repeat 0px -220px;
+    top: -6px;
+    right: -38px;
+}
+
+.country_wpapper p.search {
+    font-size: 14px;
+    color: #253858;
+    max-width: 100%;
+    text-align: left;
+    padding: 20px 0px 0px 0px;
+    
+}
+.country_wpapper p.search::after, .country_wpapper p.search::before{ clear: both;}
+.country_wpapper h6 {
+    font-size: 12px;
+    font-weight: normal;
+    letter-spacing: 0.24px;
+    color: #253858;
+}
+
+.country_wpapper ul.country_icons {
+    margin: 0px;
+    padding: 15px 0px 0px 0px;
+    width: 100%;
+    float: left;
+}
+
+.country_wpapper ul.country_icons li.active span {
+    border-color: #0065ff !important;
+}
+
+.country_wpapper ul.country_icons li.active p {
+    color: #0065ff !important;
+}
+
+.country_wpapper ul.country_icons li {
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+
+.country_wpapper ul.country_icons li span.usa_icon {
+    background-position: -7px -522px;
+}
+
+.country_wpapper ul.country_icons li.active span.usa_icon {
+    background-position: -151px -522px !important;
+}
+
+.country_wpapper ul.country_icons li .sachengen_icon {
+    background-position: -5px -301px;
+}
+
+.country_wpapper ul.country_icons li.active .sachengen_icon {
+    background-position: -151px -301px;
+}
+
+.country_wpapper ul.country_icons li .asia_icon {
+    background-position: -3px 1px;
+}
+
+.country_wpapper ul.country_icons li.active .asia_icon {
+    background-position: -151px 1px;
+}
+
+.country_wpapper ul.country_icons li .india_icon {
+    background-position: -7px -418px;
+}
+
+.country_wpapper ul.country_icons li.active .india_icon {
+    background-position: -151px -418px;
+}
+
+.country_wpapper ul.country_icons li .other_icons {
+    background-position: -6px -202px;
+    margin-right: 0px !important;
+}
+
+.country_wpapper ul.country_icons li.active .other_icons {
+    background-position: -151px -202px;
+    margin-right: 0px !important;
+}
+
+.country_wpapper ul.country_icons li .auu_nz_icon {
+    background-position: -9px -110px;
+}
+
+.country_wpapper ul.country_icons li.active .auu_nz_icon {
+    background-position: -151px -110px;
+}
+.country_wpapper ul.country_icons li.active span.usa_icon {
+    background-position: -151px -522px!important;
+}
+.country_wpapper ul.country_icons li.active span {
+    border-color: #0065ff!important;
+}
+.country_wpapper ul.country_icons li span {
+        width: 90px;
+        height: 84px;
+        margin: 0px 35px 0 0px;
+        display: inline-block;
+        border-radius: 12px;
+        border: 1px solid #253858;
+        cursor: pointer;
+        background-size: 280%!important;
+        background: url(../../../../assets/images/icons.png) no-repeat;
+}
+    
+.country_wpapper p {
+    font-size: 14px;
+    color: #253858;
+    max-width: 87px;
+    text-align: center;
+    letter-spacing: 0.2px;
+}
+
+.country_wpapper b {
+    font-size: 12px;
+    letter-spacing: 0.2px;
+    float: left;
+    display: block;
+    width: 100%;
+    text-align: left;
+}
+
+.country_wpapper .tooltiparrow {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 0px;
+    left: 82px;
+    top: 8px;
+    border: 13px solid transparent;
+    border-top: 0;
+    border-bottom: 15px solid #ffffff;
+    -webkit-transform: translate(-50%, calc(-100% - 5px));
+    transform: translate(-50%, calc(-100% - 5px));
+}
+
+.country_wpapper input.select_country_list {
+    height: 16px;
+    border-radius: 5px;
+    opacity: 0.5;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    outline: none;
+    width: 80.8%;
+    border: 1px solid #253858;
+    /* border: 1px solid red; */
+    padding-left: 15px;
+    font-size: 16px;
+    color: #B3BAC5;
+    background: none;
+    display: inline-block;
+    float: none;
+}
+
+.country_bottom_text .OkButton-button-1 {
+    right: -44px!important;
+    top: -50px !important;
+}
+
+.country_bottom_text select {
+    width: 60px;
+    color: #0065ff;
+    border-bottom: 1px solid #0065ff;
+    font-size: 12px;
+    float: left;
+    margin-left: 10px;
+    border-radius: 0;
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zd…Y2Nmw0IDQgNC00eiIgZmlsbD0iIzAwNjVmZiIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+) no-repeat 100%;
+}
+
+.country_bottom_text {
+    font-size: 12px;
+    color: #7A869A;
+    position: relative;
+    font-weight: 400;
+    /* margin-top: 10px; */
+}
+
+  
+
+.country_bottom_text i {
+    font-style: normal;
+    font-size: 12px;
+    display: inline-block;
+    float: left;
+    letter-spacing: 0.2px;
+    color: #253858;
+
+}
+
+.country_bottom_text a {
+    float: left;
+    padding-left: 10px;
+}
+
+.country_bottom_text select {
+    width: 100px;
+    color: #0065ff;
+    border-bottom: 1px solid #0065ff;
+    font-size: 12px;
+    margin-left: 0;
+    border-radius: 0;
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij4gIDxnIGlkPSJpY19leHBhbmRfbW9yZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTU4OCAtNzgpIj4gICAgPHJlY3QgaWQ9InJlY3RhbmdsZSIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1ODggNzgpIiBmaWxsPSJub25lIi8+ICAgIDxwYXRoIGlkPSJwYXRoIiBkPSJNMTMuMDY3LDguNiwxMCwxMS42NjcsNi45MzMsOC42LDYsOS41MzNsNCw0LDQtNFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDU4NiA3NS4xMzMpIiBmaWxsPSIjMDA2NWZmIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4gIDwvZz48L3N2Zz4=) no-repeat right;
+}
+
+.country_bottom_text span {
+    color: #0065ff;
+    padding-left: 13px;
+}
+
+.country_list_scrol {
+    height: 260px;
+    overflow: auto;
+    border: 1px solid transparent;
+}
+
+.country_wpapper ul.country_icons li.active span {
+    border-color: #0065ff !important;
+  }
+  
+.country_icons li.active p {
+    color: #0065ff !important;
+  }
+  
+.country_icons li {
+    margin: 0px;
+    padding: 0px;
+    float: left;
+  }
+  
+.country_icons li span.usa_icon {
+    background-position:-7px -522px;
+  }
+.country_icons li.active span.usa_icon{
+    background-position: -151px -522px !important;
+  }
+  
+.country_icons li .sachengen_icon {
+    background-position:-5px -301px;
+  }
+.country_icons li.active .sachengen_icon{ 
+    background-position:-151px -301px;
+  }
+  
+.country_icons li .asia_icon {
+    background-position:-3px 1px;
+  }
+.country_icons li.active .asia_icon{ 
+    background-position:-151px 1px;
+  }
+  
+.country_icons li .india_icon {
+    background-position:-7px -418px;
+  }
+  
+.country_icons li.active .india_icon {
+    background-position:-151px -418px;
+  }
+  
+.country_icons li .other_icons {
+    background-position:-6px -202px;
+    margin-right: 0px !important;
+  }
+  
+.country_icons li.active .other_icons {
+    background-position:-151px -202px;
+    margin-right: 0px !important;
+  }
+  
+.country_icons li .auu_nz_icon {
+    background-position:-9px -110px;
+  }
+  
+.country_icons li.active .auu_nz_icon {
+    background-position:-151px -110px;
+  }
+  
+  .country_icons li span {
+    width: 90px;
+    height: 84px;
+    margin: 0px 35px 0 0px;
+    display: inline-block;
+    border-radius: 12px;
+    border: 1px solid #253858;
+    cursor: pointer;
+    background-size: 280%!important;
+    background:  url(../../../../assets/images/icons.png) no-repeat ;
+  }
+ 
+
+
+
+  

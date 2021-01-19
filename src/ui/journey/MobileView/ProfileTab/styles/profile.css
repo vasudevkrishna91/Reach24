@@ -1,0 +1,106 @@
+.showProfile{
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 15px 45px 15px 15px;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(0,0,0,.16);
+    font-size: 14px;
+    display: none;
+    position: relative;
+}
+.showProfile i.fa-angle-down {
+    position: absolute;
+    right: 23px;
+    top: 30px;
+    font-size: 20px;
+}
+.showProfile .selectedProfile{
+    color: #0065ff;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.showProfile span{
+    float: right;
+    margin: -36px 15px;
+    cursor: pointer;
+}
+
+.profilesDropdown{
+    
+    background: white;
+    max-width: 490px;
+    max-height: 360px;
+    border-radius: 10px;
+    padding: 0;
+    text-transform: capitalize;
+    float: left;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin: 1.75rem auto;
+    width: 90%;
+    z-index: 1100;
+    border: none;
+
+}
+.profilesDropdown .modal-body{
+    overflow-y: auto;
+    min-height: 100px;
+    max-height: 280px;
+}
+ul.groupList {
+    display: table;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+ul.groupList:last-child {
+    border-bottom: none;
+}
+ul.groupList li {
+    display: table-cell;
+}
+ul.groupList li.check{width: 30px;}
+ul.groupList li.select{width: 100px;}
+ul.groupList li.select select.form-control{
+    color: #0065ff;
+    border: none;
+}
+
+
+@media (max-width: 768px) {
+    .showProfile{
+        display: block;
+        padding: 10px 45px 10px 15px;
+    }
+    .showProfile .selectedProfile{
+        font-size: 17px;
+        font-weight: 400;
+    }
+    .showProfile p{
+        font-size: 12px;
+    }
+    .showProfile i.fa-angle-down{
+        top: 25px;
+    }
+    .profilesDropdown{
+        margin: 3.75rem auto;
+        max-width: 345px;
+    }
+    ul.groupList li.select{
+        width: 165px;
+        padding: 0 10px 0 0px;
+        box-shadow: 0px 0px 3px -1px #0000ff;
+        -webkit-box-shadow: 0px 0px 3px -1px #0000ff; 
+        -moz-box-shadow: 0px 0px 3px -1px #0000ff;
+        -webkit-appearance: none;
+        border-radius: 4px;}
+    .profilesDropdown .modal-body{
+        min-height: 0;
+    }
+}

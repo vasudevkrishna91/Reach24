@@ -1,0 +1,191 @@
+{
+  "members": [
+    {
+      "questions": [
+        
+      ],
+      "visaTypes": [
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": false,
+          "isActive": false,
+          "masterTypeID": 57,
+          "masterID": 1,
+          "name": "Tourist/Visitor Visa"
+        },
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": false,
+          "isActive": false,
+          "masterTypeID": 57,
+          "masterID": 2,
+          "name": "Short term work Visa (stay less than 6 months)"
+        },
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": true,
+          "isActive": false,
+          "masterTypeID": 57,
+          "masterID": 3,
+          "name": "Long term work Visa (stay more than 6 months)"
+        },
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": true,
+          "isActive": false,
+          "masterTypeID": 57,
+          "masterID": 4,
+          "name": "Permanent Resident Card/Immigrant"
+        },
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": true,
+          "isActive": false,
+          "masterTypeID": 57,
+          "masterID": 5,
+          "name": "Dependent Visa"
+        },
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": true,
+          "isActive": false,
+          "masterTypeID": 57,
+          "masterID": 6,
+          "name": "Diplomatic Visa"
+        },
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": true,
+          "isActive": false,
+          "masterTypeID": 57,
+          "masterID": 7,
+          "name": "Student Visa"
+        },
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": true,
+          "isActive": false,
+          "masterTypeID": 57,
+          "masterID": 8,
+          "name": "Expat (No Visa Required)"
+        }
+      ],
+      "nationalities": [
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": true,
+          "isActive": false,
+          "masterTypeID": 59,
+          "masterID": 1,
+          "name": "Indian"
+        },
+        {
+          "insuredMemberID": 62,
+          "isAllowedToBuy": true,
+          "isActive": false,
+          "masterTypeID": 59,
+          "masterID": 2,
+          "name": "Others"
+        }
+      ],
+      "logoURL": "https://travelqa.policybazaar.com/logo/future-generali.jpg",
+      "variantName": "Future Travel Suraksha Silver",
+      "insurerName": "Future Generali",
+      "insurerID": 13,
+      "proposerID": 60,
+      "insuredMemberID": 62,
+      "fullName": null,
+      "dateOfBirth": "1995-11-27T00:00:00",
+      "age": 25,
+      "visaTypeID": 1,
+      "travelPurposeID": 0,
+      "nationalityID": 2,
+      "relationTypeID": 11,
+      "relationType": "Member",
+      "isPED": false,
+      "profileID": 0,
+      "proposerRelationID": 1,
+      "proposerRelation": null,
+      "parentIM": 0,
+      "denoteTraveller": "Traveller 1",
+      "labelTraveller": null,
+      "temporaryID": 1,
+      "temporaryProfileID": null,
+      "isActive": false,
+      "pedStatus": 4,
+      "planID": 204,
+      "profileTypeID": 1,
+      "primaryMemberID": null,
+      "memberTypeID": 0,
+      "sourceTypeID": 0,
+      "ageOnTravelStart": 0,
+      "calendarStartOn": "1994-06-08T00:00:00",
+      "calendarEndOn": "1995-12-08T00:00:00"
+    }
+  ],
+  "disclaimers": [
+    {
+      "disclaimerID": 1,
+      "planID": 0,
+      "disclaimerText": "Travelling against medical or govt. advice or for medical treatment",
+      "defaultValue": false,
+      "valueToProceed": false,
+      "applicableForGender": 0,
+      "tooltip": "Please select yes - if you are travelling abroad for obtaining medical treatment or against the advice of a medical practtioner or if you are waitlisted for any kind of medical treatment abroad or if you have received a terminal prognosis for a medical condition or against any government advisory",
+      "helpText": "",
+      "errorMessage": ""
+    },
+    {
+      "disclaimerID": 2,
+      "planID": 0,
+      "disclaimerText": "Trip starting from India in policy period",
+      "defaultValue": true,
+      "valueToProceed": true,
+      "applicableForGender": 0,
+      "tooltip": "",
+      "helpText": "",
+      "errorMessage": ""
+    },
+    {
+      "disclaimerID": 3,
+      "planID": 0,
+      "disclaimerText": "Travelling as professional/semi-professional for a sport event",
+      "defaultValue": false,
+      "valueToProceed": false,
+      "applicableForGender": 0,
+      "tooltip": "",
+      "helpText": "",
+      "errorMessage": ""
+    },
+    {
+      "disclaimerID": 4,
+      "planID": 0,
+      "disclaimerText": "Travelling for adventure sport",
+      "defaultValue": false,
+      "valueToProceed": false,
+      "applicableForGender": 0,
+      "tooltip": "Please select 'Yes' - if you are planning to participate in any adventure/risky sports or activities like skiing, sky diving, rock climbing, scuba diving, paragliding, cliff/bungee jumping, motor racing, marathon/triathlon etc.",
+      "helpText": "",
+      "errorMessage": ""
+    },
+    {
+      "disclaimerID": 5,
+      "planID": 0,
+      "disclaimerText": "Travelling to any UN sanctioned countries",
+      "defaultValue": false,
+      "valueToProceed": false,
+      "applicableForGender": 0,
+      "tooltip": "Please select 'Yes' - if you are travelling to any UN sanctioned countries e.g Afghanistan, Syria, Iraq, Iran, Lebanon, North Korea, Cuba, Democratic Republic of Congo, Sudan, Libiya, Angola, Rwanda, Sierra Leone etc.",
+      "helpText": "",
+      "errorMessage": ""
+    }
+  ],
+  "premiumRevisedForProfiles": null,
+  "hasError": false,
+  "returnValue": null,
+  "proposerID": 60,
+  "encryptedProposerID": "NjA=",
+  "enquiryID": 0,
+  "errorCode": 0,
+  "redirectURL": null
+}

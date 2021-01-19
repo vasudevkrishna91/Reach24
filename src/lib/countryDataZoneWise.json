@@ -1,0 +1,1212 @@
+[
+	{
+		"CountryID": "161",
+		"CountryName": "5land Islands",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "58",
+		"CountryName": "Afghanistan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "145",
+		"CountryName": "Albania",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "1",
+		"CountryName": "Algeria",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "121",
+		"CountryName": "American Samoa",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "146",
+		"CountryName": "Andorra",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "2",
+		"CountryName": "Angola",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "254",
+		"CountryName": "Anguilla",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "204",
+		"CountryName": "Antigua and Barbuda",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "264",
+		"CountryName": "Argentina",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "62",
+		"CountryName": "Armenia",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "229",
+		"CountryName": "Aruba",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "122",
+		"CountryName": "Australia",
+		"Zone2": "AUS/NZ"
+	},
+	{
+		"CountryID": "148",
+		"CountryName": "Austria",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "147",
+		"CountryName": "Azerbaijan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "205",
+		"CountryName": "Bahamas",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "60",
+		"CountryName": "Bahrain",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "61",
+		"CountryName": "Bangladesh",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "206",
+		"CountryName": "Barbados",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "153",
+		"CountryName": "Belarus",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "150",
+		"CountryName": "Belgium",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "208",
+		"CountryName": "Belize",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "12",
+		"CountryName": "Benin",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "207",
+		"CountryName": "Bermuda",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "63",
+		"CountryName": "Bhutan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "265",
+		"CountryName": "Bolivia",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "248",
+		"CountryName": "Bonaire",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "151",
+		"CountryName": "Bosnia and Herzegovina",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "3",
+		"CountryName": "Botswana",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "266",
+		"CountryName": "Brazil",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "64",
+		"CountryName": "British Indian Ocean Territory",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "209",
+		"CountryName": "British Virgin Islands",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "65",
+		"CountryName": "Brunei Darussalam",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "152",
+		"CountryName": "Bulgaria",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "56",
+		"CountryName": "Burkina Faso",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "4",
+		"CountryName": "Burundi",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "67",
+		"CountryName": "Cambodia",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "5",
+		"CountryName": "Cameroon",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "210",
+		"CountryName": "Canada",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "6",
+		"CountryName": "Cape Verde",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "211",
+		"CountryName": "Cayman Islands",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "7",
+		"CountryName": "Central African Republic",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "8",
+		"CountryName": "Chad",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "267",
+		"CountryName": "Chile",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "69",
+		"CountryName": "China",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "71",
+		"CountryName": "Christmas Island",
+		"Zone2": "Asia"
+	},
+	{
+		"CountryID": "72",
+		"CountryName": "Cocos (Keeling) Islands",
+		"Zone2": "AUS/NZ"
+	},
+	{
+		"CountryID": "268",
+		"CountryName": "Colombia",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "9",
+		"CountryName": "Comoros",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "11",
+		"CountryName": "Congo",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "124",
+		"CountryName": "Cook Islands",
+		"Zone2": "AUS/NZ"
+	},
+	{
+		"CountryID": "212",
+		"CountryName": "Costa Rica",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "21",
+		"CountryName": "Cote d\"Ivoire",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "154",
+		"CountryName": "Croatia",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "213",
+		"CountryName": "Cuba",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "228",
+		"CountryName": "Curacao",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "73",
+		"CountryName": "Cyprus",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "156",
+		"CountryName": "Czech Republic",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "157",
+		"CountryName": "Denmark",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "16",
+		"CountryName": "Djibouti",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "214",
+		"CountryName": "Dominica",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "215",
+		"CountryName": "Dominican Republic",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "269",
+		"CountryName": "Ecuador",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "54",
+		"CountryName": "Egypt",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "216",
+		"CountryName": "El Salvador",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "279",
+		"CountryName": "England",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "13",
+		"CountryName": "Equatorial Guinea",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "15",
+		"CountryName": "Eritrea",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "158",
+		"CountryName": "Estonia",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "14",
+		"CountryName": "Ethiopia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "270",
+		"CountryName": "Falkland Islands (Malvinas)",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "159",
+		"CountryName": "Faroe Islands",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "125",
+		"CountryName": "Fiji",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "160",
+		"CountryName": "Finland",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "162",
+		"CountryName": "France",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "271",
+		"CountryName": "French Guiana",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "126",
+		"CountryName": "French Polynesia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "17",
+		"CountryName": "Gabon",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "18",
+		"CountryName": "Gambia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "163",
+		"CountryName": "Georgia",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "164",
+		"CountryName": "Germany",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "19",
+		"CountryName": "Ghana",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "165",
+		"CountryName": "Gibraltar",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "166",
+		"CountryName": "Greece",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "217",
+		"CountryName": "Greenland",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "218",
+		"CountryName": "Grenada",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "219",
+		"CountryName": "Guadeloupe",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "128",
+		"CountryName": "Guam",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "220",
+		"CountryName": "Guatemala",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "201",
+		"CountryName": "Guernsey",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "20",
+		"CountryName": "Guinea",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "36",
+		"CountryName": "Guinea-Bissau",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "272",
+		"CountryName": "Guyana",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "221",
+		"CountryName": "Haiti",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "167",
+		"CountryName": "Holy See (Vatican City State)",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "222",
+		"CountryName": "Honduras",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "76",
+		"CountryName": "Hong Kong",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "168",
+		"CountryName": "Hungary",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "169",
+		"CountryName": "Iceland",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "278",
+		"CountryName": "India",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "77",
+		"CountryName": "Indonesia",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "78",
+		"CountryName": "Iran",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "79",
+		"CountryName": "Iraq",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "170",
+		"CountryName": "Ireland",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "203",
+		"CountryName": "Isle of Man",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "80",
+		"CountryName": "Israel",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "171",
+		"CountryName": "Italy",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "223",
+		"CountryName": "Jamaica",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "81",
+		"CountryName": "Japan",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "202",
+		"CountryName": "Jersey",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "83",
+		"CountryName": "Jordan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "172",
+		"CountryName": "Kazakhstan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "22",
+		"CountryName": "Kenya",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "127",
+		"CountryName": "Kiribati",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "85",
+		"CountryName": "Kuwait",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "86",
+		"CountryName": "Kyrgyz Republic",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "173",
+		"CountryName": "Latvia",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "98",
+		"CountryName": "Lebanon",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "23",
+		"CountryName": "Lesotho",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "24",
+		"CountryName": "Liberia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "25",
+		"CountryName": "Libyan Arab Jamahiriya",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "174",
+		"CountryName": "Liechtenstein",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "175",
+		"CountryName": "Lithuania",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "176",
+		"CountryName": "Luxembourg",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "99",
+		"CountryName": "Macau",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "197",
+		"CountryName": "Macedonia",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "26",
+		"CountryName": "Madagascar",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "27",
+		"CountryName": "Malawi",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "100",
+		"CountryName": "Malaysia",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "101",
+		"CountryName": "Maldives",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "28",
+		"CountryName": "Mali",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "177",
+		"CountryName": "Malta",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "137",
+		"CountryName": "Marshall Islands",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "224",
+		"CountryName": "Martinique",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "29",
+		"CountryName": "Mauritania",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "30",
+		"CountryName": "Mauritius",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "10",
+		"CountryName": "Mayotte",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "225",
+		"CountryName": "Mexico",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "136",
+		"CountryName": "Micronesia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "179",
+		"CountryName": "Moldova",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "178",
+		"CountryName": "Monaco",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "102",
+		"CountryName": "Mongolia",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "180",
+		"CountryName": "Montenegro",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "226",
+		"CountryName": "Montserrat",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "31",
+		"CountryName": "Morocco",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "32",
+		"CountryName": "Mozambique",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "66",
+		"CountryName": "Myanmar",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "33",
+		"CountryName": "Namibia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "129",
+		"CountryName": "Nauru",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "104",
+		"CountryName": "Nepal",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "181",
+		"CountryName": "Netherlands",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "227",
+		"CountryName": "Netherlands Antilles",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "130",
+		"CountryName": "New Caledonia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "132",
+		"CountryName": "New Zealand",
+		"Zone2": "AUS/NZ"
+	},
+	{
+		"CountryID": "249",
+		"CountryName": "Nicaragua",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "34",
+		"CountryName": "Niger",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "35",
+		"CountryName": "Nigeria",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "133",
+		"CountryName": "Niue",
+		"Zone2": "AUS/NZ"
+	},
+	{
+		"CountryID": "134",
+		"CountryName": "Norfolk Island",
+		"Zone2": "AUS/NZ"
+	},
+	{
+		"CountryID": "135",
+		"CountryName": "Northern Mariana Islands",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "182",
+		"CountryName": "Norway",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "103",
+		"CountryName": "Oman",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "105",
+		"CountryName": "Pakistan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "75",
+		"CountryName": "Palestinian Territory",
+		"Zone2": "Asia"
+	},
+	{
+		"CountryID": "250",
+		"CountryName": "Panama",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "138",
+		"CountryName": "Papua New Guinea",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "273",
+		"CountryName": "Paraguay",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "274",
+		"CountryName": "Peru",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "106",
+		"CountryName": "Philippines",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "139",
+		"CountryName": "Pitcairn Islands",
+		"Zone2": "AUS/NZ"
+	},
+	{
+		"CountryID": "183",
+		"CountryName": "Poland",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "184",
+		"CountryName": "Portugal",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "251",
+		"CountryName": "Puerto Rico",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "108",
+		"CountryName": "Qatar",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "37",
+		"CountryName": "Reunion",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "185",
+		"CountryName": "Romania",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "186",
+		"CountryName": "Russian Federation",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "38",
+		"CountryName": "Rwanda",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "252",
+		"CountryName": "Saint Barthelemy",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "39",
+		"CountryName": "Saint Helena",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "253",
+		"CountryName": "Saint Kitts and Nevis",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "255",
+		"CountryName": "Saint Lucia",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "256",
+		"CountryName": "Saint Martin",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "257",
+		"CountryName": "Saint Pierre and Miquelon",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "259",
+		"CountryName": "Saint Vincent and the Grena",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "144",
+		"CountryName": "Samoa",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "187",
+		"CountryName": "San Marino",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "40",
+		"CountryName": "Sao Tome and Principe",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "110",
+		"CountryName": "Saudi Arabia",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "280",
+		"CountryName": "Scotland",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "41",
+		"CountryName": "Senegal",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "188",
+		"CountryName": "Serbia",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "42",
+		"CountryName": "Seychelles",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "43",
+		"CountryName": "Sierra Leone",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "111",
+		"CountryName": "Singapore",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "189",
+		"CountryName": "Slovakia",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "190",
+		"CountryName": "Slovenia",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "123",
+		"CountryName": "Solomon Islands",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "44",
+		"CountryName": "Somalia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "84",
+		"CountryName": "Souht Korea",
+		"Zone2": "Asia"
+	},
+	{
+		"CountryID": "45",
+		"CountryName": "South Africa",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "47",
+		"CountryName": "South Sudan",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "191",
+		"CountryName": "Spain",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "68",
+		"CountryName": "Sri Lanka",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "49",
+		"CountryName": "Sudan",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "275",
+		"CountryName": "Suriname",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "192",
+		"CountryName": "Svalbard & Jan Mayen Islands",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "50",
+		"CountryName": "Swaziland",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "193",
+		"CountryName": "Sweden",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "194",
+		"CountryName": "Switzerland",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "113",
+		"CountryName": "Syrian Arab Republic",
+		"Zone2": "Asia"
+	},
+	{
+		"CountryID": "70",
+		"CountryName": "Taiwan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "114",
+		"CountryName": "Tajikistan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "55",
+		"CountryName": "Tanzania",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "115",
+		"CountryName": "Thailand",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "107",
+		"CountryName": "Timor-Leste",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "51",
+		"CountryName": "Togo",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "140",
+		"CountryName": "Tokelau",
+		"Zone2": "AUS/NZ"
+	},
+	{
+		"CountryID": "141",
+		"CountryName": "Tonga",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "260",
+		"CountryName": "Trinidad and Tobago",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "52",
+		"CountryName": "Tunisia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "195",
+		"CountryName": "Turkey",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "118",
+		"CountryName": "Turkmenistan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "261",
+		"CountryName": "Turks and Caicos Islands",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "142",
+		"CountryName": "Tuvalu",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "262",
+		"CountryName": "USA",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "53",
+		"CountryName": "Uganda",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "196",
+		"CountryName": "Ukraine",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "116",
+		"CountryName": "United Arab Emirates",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "200",
+		"CountryName": "United Kingdom",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "263",
+		"CountryName": "United States Virgin Islands",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "276",
+		"CountryName": "Uruguay",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "119",
+		"CountryName": "Uzbekistan",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "131",
+		"CountryName": "Vanuatu",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "277",
+		"CountryName": "Venezuela",
+		"Zone2": "US/Canada"
+	},
+	{
+		"CountryID": "112",
+		"CountryName": "Vietnam",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "281",
+		"CountryName": "Wales",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "143",
+		"CountryName": "Wallis and Futuna",
+		"Zone2": "Europe"
+	},
+	{
+		"CountryID": "48",
+		"CountryName": "Western Sahara",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "120",
+		"CountryName": "Yemen",
+		"Zone2": "ASIA"
+	},
+	{
+		"CountryID": "57",
+		"CountryName": "Zambia",
+		"Zone2": "Other"
+	},
+	{
+		"CountryID": "46",
+		"CountryName": "Zimbabwe",
+		"Zone2": "Other"
+	}
+]

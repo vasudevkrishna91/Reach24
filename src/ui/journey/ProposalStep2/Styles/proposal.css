@@ -1,0 +1,590 @@
+.passport_wrapper .pro_box {
+  
+  border-radius: 4px;
+  width: 100%;
+  position: relative;
+  height: 56px;
+  margin-bottom: 15px;
+}
+/* .passport_wrapper .pro_box label,
+.passport_wrapper .pro_box select,
+.passport_wrapper .pro_box label + div {
+  padding: 0px 15px;
+} */
+.ctaRow {
+  margin: 32px 0;
+}
+.ctaRow button {
+  margin: 0 5px !important;
+}
+.passport_wrapper .pro_box label {
+  position: absolute;
+  left: 16px;
+  right: 0;
+  z-index: 1;
+  top: 6px;
+  font-size: 12px;
+  color: #7a869a;
+}
+.passport_wrapper .pro_box.error_proposal select{
+  border: none;
+}
+
+/* .passport_wrapper label {
+  width: 100%;
+  float: left;
+  font-size: 12px;
+  color: #7a869a;
+  line-height: 16px;
+} */
+.passport_wrapper .pro_box select {
+  color: #253858;
+  border: 0px;
+  font-size: 16px;
+  line-height: 16px;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  width: 100%;
+  padding-top: 28px;
+  padding-bottom: 10px;
+  position: relative;
+  z-index: 2;
+  background: url(/static/media/dropdown.12ac075c.svg) no-repeat 98% center;
+  cursor: pointer;
+  border: 1px solid #7a869a;
+}
+/* .passport_wrp {
+  margin: 10px 0;
+} */
+/* .passport_wrapper {
+  margin-left: -15px;
+  margin-right: -15px;
+} */
+
+.passport_wrp .upload-passport {
+  width: 100%;
+  height: 56px;
+  border: 1px solid #0065ff;
+  border-radius: 6px;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  padding: 5px 15px;
+}
+
+.passport_wrp .upload-passport .clickDiv {
+  position: relative;
+}
+
+.passport_wrp .upload-passport:focus {
+  border: 2px solid #0065ff;
+}
+
+.passport_wrp .upload-passport:focus-within {
+  border: 2px solid #0065ff;
+}
+/* 
+.passport_wrp .col-md-6 > div.upload-passport {
+  width: 100%;
+  height: 80px;
+  border: 1px solid #0065ff;
+  border-radius: 6px;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  padding: 15px;
+} */
+.passport_wrp > div input {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  opacity: 0;
+  width: 100%;
+  cursor: pointer;
+}
+
+/* .passport_wrp > div > div {
+  width: 100%;
+  padding: 0 48px;
+  display: flex;
+  align-items: center;
+} */
+.passport_wrp .passport_upload {
+  width: 36px;
+  height: 36px;
+  margin-right: 16px;
+}
+.passport_wrp .passport_upload + label {
+  font-size: 14px;
+  color: #0065ff;
+  font-weight: 500;
+  width: auto;
+  padding: 10px 45px;
+}
+.otherTxt {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 25px 0;
+}
+.proposal_step2 .white_box .proposal_submit,
+.proposal_step2 .button_group .proposal_submit,
+.proposal_step2 .save_btn {
+  position: relative;
+  cursor: pointer;
+}
+
+/* .proposal_submit:focus-within {
+  border: 2px solid black;
+}
+
+.proposal_submit:focus {
+  border: 2px solid black;
+} */
+
+.save_btn:focus {
+  background: #0065ff;
+  color: white;
+}
+
+.save_btn:focus-within {
+  background: #0065ff;
+  color: white;
+}
+
+/* .custDetailWrap {
+  margin: 0 -15px;
+} */
+
+/* .traveller .edit {
+  margin-top: 6px;
+} */
+.proposal_Step2_Back_Container {
+  border: 1px solid #253858;
+  border-radius: 8px;
+  margin-top: 0;
+  min-height: 72px;
+  padding: 15px;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+.proposal_Step2_Back_Container .traveller {
+  /* width: calc(100% - 98px - 16px);
+  display: flex;
+  flex-wrap: wrap; */
+}
+.proposal_Step2_Back_Container .traveller > div {
+  /* margin-right: 40px;
+  width: 250px; */
+  margin-bottom: 5px;
+}
+.proposal_Step2_Back_Container .traveller .title {
+  font-size: 16px;
+  font-weight: 600;
+}
+.proposal_Step2_Back_Container .traveller p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.editBtn_ProposalStep1 {
+  font-size: 14px;
+  height: 36px;
+  margin-top: 7px;
+  width: 90px;
+  line-height: 36px;
+  border: 1px solid #0662f6;
+  border-radius: 4px;
+  text-align: center;
+  color: #0065ff;
+  /* text-transform: uppercase; */
+  font-style: normal;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 500;
+}
+
+.editBtn_ProposalStep1:hover {
+  background-color: #0065ff;
+  color: #fff;
+}
+.passport_left,
+.passport_right {
+  position: relative;
+}
+.passport_upload {
+  background: url(../../../../assets/images/svg/passportupload.svg) no-repeat center center !important;
+  position: absolute;
+  top: 4px;
+  left: 0;
+}
+
+.upArrow_Grey {
+  background: url(../../../../assets/images/svg/upArrowGrey.svg) no-repeat center center;
+  width: 30px;
+  height: 30px;
+  float: right;
+  background-size: 20px;
+}
+
+.downArrow_Grey {
+  background: url(../../../../assets/images/svg/downArrowGrey.svg) no-repeat center center;
+  width: 30px;
+  height: 30px;
+  float: right;
+  background-size: 20px;
+}
+
+.rightArrow_Blue {
+  background: url(../../../../assets/images/svg/rightArrowBlue.svg) no-repeat center center;
+}
+
+.medicalQuestionsWrap {
+  font-size: 14px;
+}
+.medicalQuestionsWrap ul {
+  counter-reset: count;
+}
+.medicalQuestionsWrap ul,
+.medicalQuestionsWrap ul li {
+  width: 100%;
+}
+.medicalQuestionsWrap ul li {
+  margin-bottom: 24px;
+  position: relative;
+  padding-left: 48px;
+}
+.medicalQuestionsWrap ul li:last-child {
+  margin-bottom: 0;
+}
+.medicalQuestionsWrap ul li::before {
+  content: counter(count);
+  counter-increment: count;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  background: #f4f5f7;
+  border-radius: 50%;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 500;
+  color: #97a0af;
+}
+.medicalQuestionsWrap ul li .questionBlock {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.medicalQuestionsWrap ul li .questionBlock > label {
+  width: 550px;
+  font-weight: 400;
+  max-width: 100%;
+  margin-bottom: 0;
+  vertical-align: -webkit-baseline-middle;
+}
+.medicalQuestionsWrap ul li .questionBlock .slider {
+  width: 42px;
+  height: 30px;
+  margin: 0;
+  float: right;
+}
+.medicalQuestionsWrap ul li .questionBlock .slider .switch-label {
+  margin: 0;
+  padding: 0;
+}
+
+.medicalQuestionsWrap ul li .questionOptionsBlock {
+  margin: 16px 0 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.medicalQuestionsWrap ul li .questionOptionsBlock .pro_check_box {
+  margin: 0 21px 16px 0;
+}
+.medicalQuestionsWrap ul li .questionOptionsBlock .pro_check_box label.text {
+  padding-bottom: 0;
+}
+.p0 {
+  padding: 0;
+}
+.error_textColor {
+  color: red;
+  font-size: 12px;
+}
+
+.tooltip_text_proposer {
+  position: absolute;
+  min-width: 180px;
+  background-color: #253858;
+  color: #ffffff;
+  text-align: left;
+  padding: 5px 0;
+  border-radius: 6px;
+  z-index: 1;
+  display: none;
+  transition: opacity 0.6s;
+  right: -158px;
+  top: 5px;
+  font-weight: normal;
+  padding: 10px;
+  height: auto;
+  max-width: 300px;
+  font-size: 12px;
+}
+
+.tooltip_text_proposer::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  border-width: 10px;
+  margin-left: -18px;
+  border-style: solid;
+  border-color: transparent #253858 transparent transparent;
+}
+
+.tooltip_proposer:hover .tooltip_text_proposer {
+  visibility: visible;
+  display: block;
+  padding-left: 20px !important;
+}
+
+.passportLoader {
+  width: 0px;
+  height: 4px;
+  background-color: white;
+  background-image: linear-gradient(45deg, #4b7ef3, #4b7ef3);
+  background-size: 0px;
+  background-repeat: no-repeat;
+  background-position: 0px;
+  animation: passportloadrposition 2s infinite;
+}
+@keyframes passportloadrposition {
+  from {
+    background-position: 0px;
+    background-size: 0px;
+  }
+  to {
+    background-size: 100%;
+  }
+}
+.autocomplete-items {
+  box-shadow: 0px 7px 10px #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  background: #ffff;
+}
+.autocomplete-items div {
+  border-bottom: 1px solid #7a869a;
+}
+
+.passport_close {
+  width: 18px;
+  height: 18px;
+  background: url(../../../../assets/images/svg/passport_close.svg) no-repeat 98% center !important;
+}
+
+.passport_check {
+  width: 18px;
+  height: 18px;
+  background: url(../../../../assets/images/svg/passport_check.svg) no-repeat 98% center !important;
+}
+
+.pincodeHover:hover {
+  background-color: #0065ff;
+  color: white;
+}
+
+.sliderLiApperance {
+  width: 33px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+/* .toast {
+  left: 0px !important;
+  right: 0 !important;
+  margin: 0px auto !important;
+  top: 40%;
+} */
+.mob-traverl-detail {
+  position: relative;
+  vertical-align: middle;
+  background-color: #deebff;
+  margin-bottom: 10px;
+}
+.mob-traverl-detail .detail-box {
+  width: 80%;
+}
+.mob-traverl-detail .detail-box h5 {
+  font-size: 14px;
+}
+.mob-traverl-detail .inner-detail {
+  border-bottom: 1px solid #253858;
+  padding: 10px;
+}
+.mob-traverl-detail .detail-box span {
+  font-size: 12px;
+  width: 160px;
+  display: inline-block;
+}
+.mob-traverl-detail .arrow-down {
+  position: absolute;
+  right: 15px;
+  top: 22%;
+}
+.mob-traverl-detail .traveller-box {
+  display: none;
+}
+.mob-traverl-detail .traveller .title {
+  font-size: 14px;
+  font-weight: 600;
+}
+.mob-traverl-detail .details-show {
+  display: block;
+}
+
+.customer_detail {
+  clear: both;
+}
+.fieldBlock.numbered .field input{
+  padding: 16px;
+}
+.fieldBlock.numbered .field input:valid+label{
+  top: 0;
+}
+.col-md-3.p0.fieldBlock.numbered{
+  max-width: 100%;
+}
+.passport_wrp .upload-passport .passport_check{
+  position: absolute;
+  right: 20px;
+  bottom: 17px;
+}
+
+.passport_wrp .upload-passport .passport_close{
+  position: absolute;
+  right: 15px;
+  bottom: -28px;
+}
+
+@media (max-width: 768px) {
+  .proposal_form_wrapper label{
+    white-space: pre-wrap;
+  }
+  .proposal_form_wrapper label.male{
+    white-space: inherit;
+  }
+
+  .proposal_Step2_Back_Container .traveller {
+    /* width: 100%; */
+  }
+  .proposal_Step2_Back_Container .traveller p {
+    font-size: 14px;
+  }
+  .proposal_Step2_Back_Container .traveller > div {
+    margin: 0;
+  }
+  .proposal_Step2_Back_Container .traveller > div.form-group {
+    margin-bottom: 10px;
+  }
+  .editBtn_ProposalStep1 {
+    /* width: auto;
+    background: transparent;
+    font-size: 14px;
+    height: auto;
+    padding: 0 8px;
+    line-height: 27px;
+    text-transform: capitalize;
+    border: none; */
+  }
+  .proposal_step2 .save_btn,
+  .proposal_step2 .button_group .proposal_submit {
+    width: 100px;
+    margin: 0 auto;
+    font-size: 14px;
+    height: 40px;
+  }
+
+  /* .passport_wrp .col-md-6 > div.upload-passport {
+    height: 50px;
+    border-radius: 6px;
+    margin: 10px 0;
+    padding: 10px 15px;
+  } */
+  .passport_upload {
+    background-size: 30px !important;
+    left: 0;
+    top: 6px;
+  }
+  .otherTxt {
+    margin-bottom: 5px;
+    margin-top: 10px;
+  }
+  .medicalQuestionsWrap ul li {
+    margin-bottom: 5px;
+    padding-left: 40px;
+  }
+  .medicalQuestionsWrap ul li .questionBlock > label {
+    font-size: 12px;
+  }
+  .medicalQuestionsWrap ul li .questionOptionsBlock .pro_check_box label.text {
+    font-size: 12px;
+  }
+  /* .ctaRow,
+  .custDetailWrap {
+    margin: 0;
+  } */
+
+  .passport_wrp .upload-passport {
+    padding: 5px 15px;
+    margin: 5px 0;
+    height: auto;
+  }
+  .passport_wrp .upload-passport .passport_close{
+    bottom: 15px;
+  }
+
+  .proposal_step2 .white_box {
+    margin: 0;
+  }
+
+  .downArrow_Grey {
+    background: url(/v4/static/media/downArrowGrey.0860ea44.svg) no-repeat center center;
+    width: 24px;
+    height: 24px;
+    float: right;
+    background-size: 20px;
+  }
+  .upArrow_Grey {
+    background: url(../../../../assets/images/svg/upArrowGrey.svg) no-repeat center center;
+  width: 30px;
+  height: 30px;
+  float: right;
+  background-size: 20px;
+  }
+}
+
+
+.save-form .toast_show{
+ opacity: 1;
+ position: relative;
+ transform: none;
+ text-align: center;
+  margin: -20px 0 10px;
+  color: #0065ff;
+  font-size: 15px;
+}
+
+.tempHdfcTextbox{
+width: 260px;
+height: 40px;
+}
+
+.cursorPointer{
+  cursor: pointer;
+}

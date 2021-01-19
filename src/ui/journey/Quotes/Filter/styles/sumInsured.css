@@ -1,0 +1,132 @@
+/* @media only screen and (max-width: 767px) {
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+} */
+
+.btn {
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  font-weight: 300;
+  display: inline-block;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  font-size: 16px;
+  padding: 8px 12px;
+  min-width: 160px;
+  line-height: 1.6;
+  max-width: 100%;
+  border: solid 1px transparent;
+  border-radius: 4px;
+  background: #0065ff;
+  color: #ffffff;
+}
+
+.btn:hover,
+.btn:active {
+  background: #0051cc;
+  color: #ffffff;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.drop_down {
+  border: 1px solid #25385833;
+  font-size: 14px;
+  color: #253858;
+  height: 48px;
+  width: auto;
+  background: url(../../../../../assets/images/drop-down-arrow.png) no-repeat 130px 22px !important;
+  padding-left: 7px;
+}
+
+.si_heading {
+  border-bottom: 1px solid #25385833;
+}
+
+.si_wrapper p {
+  font-size: 12px;
+  padding: 10px 0px;
+  color: #7a869a;
+  font-weight: 400;
+}
+.si_wrapper {
+  padding: 16px;
+}
+
+.si_wrapper label {
+  font-size: 12px;
+  padding-right: 20px;
+  color: #253858;
+}
+
+.si_wrapper .si_slect {
+  background-position: 220px 22px !important;
+  width: 245px;
+  margin-left: 14px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-align: center;
+  text-align-last: center;
+  cursor: pointer;
+}
+
+.chip_text {
+  color: #253858 !important;
+  padding-bottom: 7px !important;
+}
+
+.si_chip_wrapper span {
+  border: 1px solid #7a869a;
+  width: 120px;
+  height: 36px;
+  border-radius: 36px;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0px 0px 15px 11px;
+  text-align: center;
+  line-height: 34px;
+  color: #7a869a;
+}
+
+.si_chip_wrapper span.active {
+  border-color: #0065ff !important;
+  color: #ffffff !important;
+  background-color: #0065ff !important;
+  cursor: pointer;
+}
+.si_chip_wrapper span:hover {
+  background: #0065ff;
+  transition: all 0.2s ease;
+  color: #fff;
+  border-color: #0065ff;
+}
+.si_chip_wrapper span:nth-child(1) {
+  margin-left: 0px;
+}
+
+.si_chip_wrapper span:nth-child(4) {
+  margin-left: 0px;
+}
+
+/* .si_popup {
+  min-width: 425px;
+} */
+
+/* .si_popup .clear_all {
+  margin-left: 27%;
+} */
+.si_chip_wrapper span:nth-child(7) {
+  margin-left: 0px;
+}

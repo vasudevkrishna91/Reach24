@@ -1,0 +1,343 @@
+{
+    "24":[
+        {
+            "name":"University Name",
+            "type":"text",
+            "master":"universityName",
+            "field":"address"
+        },
+        {
+            "name":"University Address",
+            "type":"text",
+            "master":"universityAddress",
+            "field":"address"
+        },
+        {
+            "name":"University City",
+            "type":"text",
+            "field":"address",
+            "master":"universityCity"
+        },
+        {
+            "name":"University State",
+            "type":"text",
+            "field":"address",
+            "master":"universityState"
+        },
+        {
+            "name":"University Country",
+            "type":"dropdown",
+            "dropdownType":"Country",
+            "field":"select",
+            "master":"universityCountryCode"
+        },
+        {
+            "name":"Sponsor Name",
+            "type":"text",
+            "field":"name",
+            "master":"sponsorName"
+        },
+        {
+            "name":"Sponsor Relationship",
+            "type":"dropdown",
+            "dropdownType":"Relationship",
+            "field":"select",
+            "master":"sponsorRelation"
+        }
+    ],
+    "4":[
+        {
+            "name":"University Name",
+            "type":"text",
+            "field":"address",
+            "master":"universityName"
+        },
+        {
+            "name":"University Address",
+            "type":"text",
+            "field":"address",
+            "master":"universityAddress"
+        },
+        {
+            "name":"University City",
+            "type":"text",
+            "field":"address",
+            "master":"universityCity"
+        },
+        {
+            "name":"University State",
+            "type":"text",
+            "field":"address",
+            "master":"universityState"
+        },
+        {
+            "name":"University Country",
+            "type":"dropdown",
+            "dropdownType":"Country",
+            "field":"select",
+            "master":"universityCountryCode"
+        },
+        {
+            "name":"Sponsor Name",
+            "type":"text",
+            "field":"name",
+            "master":"sponsorName"
+        },
+        {
+            "name":"Sponsor Date of Birth",
+            "type":"dob",
+            "field":"dob",
+            "master":"sponsorDOB"
+        },
+        {
+            "name":"Course Name",
+            "type":"text",
+            "field":"address",
+            "master":"courseName"
+        },
+        {
+            "name":"Course Duration",
+            "type":"dropdown",
+            "dropdownType":"Duration",
+            "field":"select",
+            "master":"courseDuration"
+        }
+    ],
+    "6":[
+        {
+            "name":"University Name",
+            "type":"text",
+            "field":"address",
+            "master":"universityName"
+        },
+        {
+            "name":"University Address",
+            "type":"text",
+            "field":"address",
+            "master":"universityAddress"
+        },
+        {
+            "name":"University City",
+            "type":"text",
+            "field":"address",
+            "master":"universityCity"
+        },
+        {
+            "name":"University State",
+            "type":"text",
+            "field":"address",
+            "master":"universityState"
+        },
+        {
+            "name":"University Country",
+            "type":"dropdown",
+            "dropdownType":"Country",
+            "field":"select",
+            "master":"universityCountryCode"
+        },
+        {
+            "name":"Sponsor Name",
+            "type":"text",
+            "field":"name",
+            "master":"sponsorName"
+        },
+        {
+            "name":"Sponsor Address",
+            "type":"text", 
+            "field":"address",
+            "master":"sponsorAddress"
+        },
+        {
+            "name":"Sponsor City",
+            "type":"text",
+            "field":"address",
+            "master":"sponsorCity"
+        },
+        {
+            "name":"Sponsor State",
+            "type":"text",
+            "field":"address",
+            "master":"sponsorState"
+        },
+        {
+            "name":"Sponsor Country",
+            "type":"dropdown",
+            "dropdownType":"Country",
+            "field":"select",
+            "master":"sponsorCountryCode"
+        },
+        {
+            "name":"Course Duration",
+            "type":"dropdown",
+            "dropdownType":"Duration",
+            "field":"select",
+            "master":"courseDuration"
+        },
+        {
+            "name":"Course Fee",
+            "type":"text",
+            "field":"number",
+            "master":"courseFee"
+        }
+    ],
+    "7":[
+        {
+            "name":"University Name",
+            "type":"text",
+            "field":"address",
+            "master":"universityName"
+        },
+        {
+            "name":"University Address",
+            "type":"text",
+            "field":"address",
+            "master":"universityAddress"
+        },
+        {
+            "name":"University City",
+            "type":"text",
+            "field":"address",
+            "master":"universityCity"
+        },
+        {
+            "name":"University State",
+            "type":"text",
+            "field":"address",
+            "master":"universityState"
+        },
+        {
+            "name":"University Country",
+            "type":"dropdown",
+            "dropdownType":"Country",
+            "field":"select",
+            "master":"universityCountryCode"
+        },
+        {
+            "name":"Sponsor Name",
+            "type":"text",
+            "field":"name",
+            "master":"sponsorName"
+        },
+        {
+            "name":"Sponsor Address",
+            "type":"text",
+            "field":"address",
+            "master":"sponsorAddress"
+        },
+        {
+            "name":"Sponsor City",
+            "type":"text",
+            "field":"address",
+            "master":"sponsorCity"
+        },
+        {
+            "name":"Sponsor State",
+            "type":"text",
+            "field":"address",
+            "master":"sponsorState"
+        },
+        {
+            "name":"Sponsor Country",
+            "type":"dropdown",
+            "dropdownType":"Country",
+            "field":"select",
+            "master":"sponsorCountryCode"
+        },
+        {
+            "name":"Sponsor Date of Birth",
+            "type":"dob",
+            "field":"dob",
+            "master":"sponsorDOB"
+        },
+        {
+            "name":"Sponsor Relationship",
+            "type":"dropdown",
+            "dropdownType":"Relationship",
+            "field":"select",
+            "master":"sponsorRelation"
+        },
+        {
+            "name":"Course Name",
+            "type":"text",
+            "field":"address",
+            "master":"courseName"
+        },
+        {
+            "name":"Course Fee",
+            "type":"text",
+            "field":"number",
+            "master":"courseFee"
+        }
+    ],
+    "10":[
+        {
+            "name":"University Name",
+            "type":"text",
+            "field":"address",
+            "master":"universityName"
+        },
+        {
+            "name":"University Address",
+            "type":"text",
+            "field":"address",
+            "master":"universityAddress"
+        },
+        {
+            "name":"Sponsor Name",
+            "type":"text",
+            "field":"name",
+            "master":"sponsorName"
+        },
+        {
+            "name":"Sponsor State",
+            "type":"text",
+            "field":"address",
+            "master":"sponsorState"
+        },
+        {
+            "name":"Sponsor Relationship",
+            "type":"dropdown",
+            "dropdownType":"Relationship",
+            "field":"select",
+            "master":"sponsorRelation"
+        },
+        {
+            "name":"Sponsor Date of Birth",
+            "type":"dob",
+            "field":"dob",
+            "master":"sponsorDOB"
+        },
+        {
+            "name":"Course Name",
+            "type":"text",
+            "field":"address",
+            "master":"courseName"
+        }
+    ],
+    "12":[
+        {
+            "name":"University Name",
+            "type":"text",
+            "field":"address",
+            "master":"universityName"
+        },
+        {
+            "name":"University Address",
+            "type":"text",
+            "field":"address",
+            "master":"universityAddress"
+        },
+        {
+            "name":"Sponsor Name",
+            "type":"text",
+            "field":"name",
+            "master":"sponsorName"
+        },
+        {
+            "name":"Sponsor Address",
+            "type":"text",
+            "field":"address",
+            "master":"sponsorAddress"
+        }
+    ]
+}

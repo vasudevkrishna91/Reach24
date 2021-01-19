@@ -1,0 +1,121 @@
+.EditTripModal {
+  background: #fff;
+  margin: 10rem auto;
+  max-width: 620px;
+  border-radius: 10px;
+  padding: 10px 0px 0px 0px;
+  width: 90%;
+  position: relative;
+}
+.EditTripModal .DateRangePicker_picker {
+  position: relative;
+  left: 0px !important;
+  float: left;
+  border-top: 1px solid #dfe1e6;
+  top: 20px !important;
+}
+.EditTripModal .primary_button {
+  margin-right: 20px;
+  margin-top: 30px;
+}
+.EditTripModal .DateInput_1 {
+  margin-left: 30px;
+}
+.EditTripModal .DateInput {
+  margin-top: 10px;
+}
+
+.EditTripModal .DateRangePickerInput__withBorder::after {
+  position: absolute;
+  content: "Trip End Date";
+  top: -35px;
+  left: 161px;
+  font-size: 12px;
+}
+.EditTripModal .DateRangePickerInput__withBorder::before {
+  position: absolute;
+  content: "Trip Start Date";
+  top: -35px;
+  left: 21px;
+  font-size: 12px;
+}
+.EditTripModal .DateInput_input {
+  position: absolute;
+  top: -82px;
+  left: -7px;
+}
+.EditTripModal .DateInput_input {
+  background: transparent !important;
+  color: #253858 !important;
+  font-size: 16px !important;
+}
+.EditTripModal .DateInput {
+  width: 94px !important;
+}
+.EditTripModal .CalendarMonth_caption {
+  padding-top: 0;
+}
+.EditTripModal.DateRangePickerInput_arrow {
+  margin-top: -16px !important;
+}
+.EditTripModal.DayPicker_transitionContainer {
+  border-radius: 2px;
+  border: 1px solid #dbdbdb !important;
+  margin-top: 20px;
+}
+.EditTripModal.DateRangePickerInput_arrow {
+  margin-top: -14px !important;
+}
+.EditTripModal .DayPicker_weekHeader {
+  top: 17px;
+}
+.EditTripModal .DayPickerNavigation_leftButton__horizontalDefault {
+  right: 41px !important;
+  top: 0px !important;
+  background-color: transparent;
+}
+.EditTripModal .DayPickerNavigation_rightButton__horizontalDefault {
+  top: 0px !important;
+  right: 41px !important;
+}
+.EditTripModal div[role="presentation"] {
+  color: #b3bac5 !important;
+  width: 5px;
+  height: 1px;
+
+  margin-right: 7px;
+  margin-left: 2px;
+  vertical-align: text-top !important;
+  margin-top: -50px !important;
+}
+.EditTripModal .DayPicker_weekHeader_ul {
+  width: 300px;
+}
+.EditTripModal .DateRangePickerInput__withBorder {
+  border-top: 1px solid #dfe1e6 !important;
+  padding-top: 17px;
+  margin-top: 24px;
+}
+.EditTripModal::after {
+  content: "";
+  display: inline-block;
+  clear: both;
+}
+
+@media (max-width: 768px) {
+  .EditTripModal .DateRangePickerInput__withBorder {
+    margin-top: 65px;
+  }
+  .EditTripModal .DateRangePickerInput__withBorder::before {
+    top: 0;
+  }
+  .EditTripModal .DateRangePickerInput__withBorder::after {
+    top: 0;
+  }
+  .EditTripModal .DateRangePicker_picker{
+    left: 12px !important;
+  }
+  .EditTripModal{
+    max-width: 345px;
+  }
+}

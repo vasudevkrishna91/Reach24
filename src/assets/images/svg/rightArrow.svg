@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="36" height="36" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Symbol_63_7" data-name="Symbol 63 – 7" transform="translate(36) rotate(90)" clip-path="url(#clip-path)">
+    <rect id="rectangle" width="36" height="36" fill="none"/>
+    <path id="path" d="M15,8,6,17l2.1,2.1L15,12.2l6.9,6.9L24,17Z" transform="translate(3 4)" fill-rule="evenodd" opacity="0.54"/>
+  </g>
+</svg>

@@ -1,0 +1,95 @@
+.EditTravellerModal {
+  background: white;
+  max-width: 490px;
+  max-height: 360px;
+  border-radius: 10px;
+  padding: 20px;
+  text-transform: capitalize;
+  float: left;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  margin: 10rem auto;
+  width: 90%;
+}
+.EditTravellerModal .DateRangePicker_picker__directionLeft {
+  float: left;
+  position: relative;
+  left: 0px !important;
+  top: inherit !important;
+}
+.EditTravellerModal .DateInput {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.EditTravellerModal .primary_button {
+  margin: 0px 20px 0px 0px !important;
+}
+.EditTravellerModal .add_traveller {
+  position: relative;
+  top: 0;
+  float: left;
+  left: 0;
+  padding: 0px;
+  height: auto;
+  background: #fff;
+}
+.EditTravellerModal .add_traveller .nxtBtnFotter {
+  position: unset;
+}
+.EditTravellerModal .add_traveller ul li:nth-child(4) {
+  padding-top: 0px;
+}
+.EditTravellerModal .add_traveller ul li:nth-child(4) span {
+  color: #ffff !important;
+}
+.add_traveller ul li:nth-child(2) select {
+  border: 0px;
+  cursor: pointer;
+}
+.add_traveller ul li select {
+  background-position: 60px 21px !important;
+}
+.add_traveller ul li select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+.EditTravellerModal .add_traveller ul li:nth-child(1) {
+  padding-top: 12px;
+}
+.EditTravellerModal .autoComplete {
+}
+.EditTravellerModal .autoComplete::before {
+  display: block;
+  content: "";
+}
+.EditTravellerModal .CountryModal h6 {
+  float: left;
+}
+
+@media (max-width: 768px){
+  .EditTravellerModal{
+    margin: 3.75em auto;
+    max-height: 625px;
+    max-width: 325px;
+  }
+  .EditTravellerModal .add_traveller ul{
+    padding: 8px 0px;
+  }
+  .EditTravellerModal .add_traveller ul li:nth-child(5) div{
+    top: 20px;
+  }
+  .EditTravellerModal .add_traveller .traveler_header{
+    max-height: 440px;
+  }
+  .EditTravellerModal .travllerBttn .secandry_button{
+    line-height: normal;
+    margin: 9px 0 9px auto;
+  }
+  .EditTravellerModal .add_traveller .nxtBtnFotter{
+    padding: 10px 0;
+  }
+  .EditTravellerModal .travllerBttn button.next{
+    width: 100%;
+  }
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "DestinationCategoryID": "1",
+        "Destination": "Worldwide",
+        "IsActive": "1",
+        "IsDisplay": "1",
+        "ZOrder": "4",
+        "Score": "1"
+    },
+    {
+        "DestinationCategoryID": "2",
+        "Destination": "Worldwide Excluding US/Canada",
+        "IsActive": "1",
+        "IsDisplay": "1",
+        "ZOrder": "3",
+        "Score": "3"
+    },
+    {
+        "DestinationCategoryID": "3",
+        "Destination": "Including America",
+        "IsActive": "1",
+        "IsDisplay": "0",
+        "ZOrder": "4",
+        "Score": "4"
+    },
+    {
+        "DestinationCategoryID": "4",
+        "Destination": "Excluding America",
+        "IsActive": "1",
+        "IsDisplay": "0",
+        "ZOrder": "3",
+        "Score": "5"
+    },
+    {
+        "DestinationCategoryID": "5",
+        "Destination": "Asia Excluding Japan",
+        "IsActive": "1",
+        "IsDisplay": "1",
+        "ZOrder": "1",
+        "Score": "10"
+    },
+    {
+        "DestinationCategoryID": "6",
+        "Destination": "Europe/Schengen",
+        "IsActive": "1",
+        "IsDisplay": "1",
+        "ZOrder": "2",
+        "Score": "10"
+    },
+    {
+        "DestinationCategoryID": "7",
+        "Destination": "Within India",
+        "IsActive": "0",
+        "IsDisplay": "0",
+        "ZOrder": "0",
+        "Score": "10"
+    },
+    {
+        "DestinationCategoryID": "8",
+        "Destination": "Asia including Japan",
+        "IsActive": "1",
+        "IsDisplay": "1",
+        "ZOrder": "1",
+        "Score": "10"
+    },
+    {
+        "DestinationCategoryID": "10",
+        "Destination": "Africa",
+        "IsActive": "1",
+        "IsDisplay": "1",
+        "ZOrder": "2",
+        "Score": "10"
+    },
+    {
+        "DestinationCategoryID": "11",
+        "Destination": "Worldwide Excluding US",
+        "IsActive": "1",
+        "IsDisplay": "1",
+        "ZOrder": "1",
+        "Score": "2"
+    }
+]

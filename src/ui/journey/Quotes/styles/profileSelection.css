@@ -1,0 +1,47 @@
+.multi_profile {
+  background: #ffffff;
+  border-bottom: 1px solid #f1f1f1;
+  font-weight: 500;
+  width: 100%;
+}
+
+.multi_profile ul {
+  width: 100%;
+  margin: 10px 0px 0px 10px;
+  padding: 0px;
+  list-style: none;
+  float: left;
+}
+
+.multi_profile ul li {
+  margin: 0px;
+  cursor: pointer;
+  padding: 0px 13px 0px 6px;
+  list-style: none;
+  float: left;
+  color: #505f79;
+}
+
+.multi_profile ul li p:first-child {
+  font-size: 12px;
+  padding-bottom: 5px;
+}
+
+.multi_profile ul li p:last-child {
+  font-size: 16px;
+  letter-spacing: 0.02em;
+}
+
+.multi_profile ul .active {
+  color: #0065ff;
+  border-bottom: 2px solid #0065ff;
+}
+
+.cl:after {
+  display: block;
+  visibility: hidden;
+  height: 0;
+  font-size: 0;
+  content: ".";
+  clear: both;
+}

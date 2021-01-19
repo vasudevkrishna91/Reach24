@@ -1,0 +1,273 @@
+.back_button {
+  float: left;
+  left: 0;
+  color: rgb(0, 101, 255);
+  font-style: normal;
+  cursor: pointer;
+  margin-top: 0;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAASCAMAAABYd88+AAAAM1BMVEUAAAAAAP8AgP8AVf8AZf8AZP8AZP8AZf8AZP8AZP8AZf8AZP8AZf8AZf8AZP8AZf8AZf+hfMrBAAAAEHRSTlMAAQIDdH+Ag4SHi5adpKux2AImbwAAAERJREFUeNptykkOwCAMQ1GHoVCGkvuflg0lRsKr/yTjX3yxF1SrWGuTe3duZ/1xe+uxGg8DZd1IjtVPCaudAqnKVk7ABPEQBFVQK1IRAAAAAElFTkSuQmCC)
+    no-repeat 0px 3px;
+  padding-left: 15px;
+}
+
+.back_button_tab {
+  border: none;
+  background-color: white;
+  color: #0065ff;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.back_button_tab:focus {
+  border: 1px solid #0065ff;
+}
+
+.lead_text {
+  font-size: 14px;
+  text-align: left;
+  position: relative;
+  padding-top: 16px !important;
+  letter-spacing: 0.2px;
+  /* padding: 0px 0px 0px 70px; */
+}
+@media (max-width: 768px){
+  .lead_text{
+    padding-top: 0 !important;
+    color: #253858;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+}
+.lead_text label {
+  font-size: 18px;
+  padding: 0px !important;
+  margin: 0px;
+}
+
+.prefix {
+  display: inline-block;
+  float: left;
+  color: #253858;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  width: 80px;
+  position: relative;
+  text-align: left;
+  background: url(../../../../assets/images/sprite.png) no-repeat 60px 13px;
+}
+
+.lead_mobile {
+  float: left;
+  padding-left: 5px;
+  width: 66%;
+  letter-spacing: 0.2px;
+}
+.custom-select-placeholder label {
+  padding-top: 8px !important;
+}
+
+.lead_text span {
+  color: #253858;
+  font-size: 18px;
+  display: block;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  text-transform: capitalize;
+}
+
+.lead_text label {
+  width: 100%;
+  letter-spacing: 0.2px;
+}
+
+.lead_mobile input {
+  border: 0;
+  font-size: 16px;
+  padding-top: 4px;
+}
+.mobile_wrapper {
+  width: 100%;
+  float: left;
+}
+/* .lead_mobile input:focus{ border-bottom: 2px solid #0065ff;} */
+.main_drop_down {
+  width: 200px;
+
+  position: absolute;
+  background: #fff;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  left: -98px;
+  top: 50px;
+  box-shadow: 0px 9px 30px #0000005c;
+  padding-right: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.main_drop_down label {
+  width: 75%;
+}
+
+.scrolling-box {
+  display: block;
+
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-radius: 10px;
+  top: 80px;
+}
+
+.main_drop_down ul li {
+  cursor: pointer;
+  float: left;
+  width: 100%;
+  padding: 7px 15px;
+}
+.main_drop_down ul li:focus {
+  border: 1px solid blue !important;
+}
+
+.main_drop_down ul li label:focus {
+  border: 1px solid blue !important;
+}
+
+.main_drop_down ul li:hover {
+  background: #f4f5f7;
+}
+
+.main_drop_down ul li label {
+  cursor: pointer;
+  border-color: #fff !important;
+}
+.main_drop_down ul li:hover label {
+  border-color: #f4f5f7 !important;
+}
+.main_drop_down ul li.active label {
+  border-color: #deebfd !important;
+}
+.custom-select-placeholder .MuiIconButton-root {
+  padding: 9px 12px !important;
+}
+
+.custom-select {
+  position: relative;
+}
+
+.custom-select-placeholder label {
+  font-size: 16px;
+  text-transform: capitalize;
+  color: #253858;
+  letter-spacing: 0.2px;
+}
+
+.custom-select .custom-select-placeholder label {
+  color: #253858;
+  font-weight: 400;
+}
+
+.main_drop_down ul li span {
+  display: inline-block;
+  float: left;
+}
+.traveller_scroll {
+  float: left;
+}
+.MuiPopover-paper {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  height: 200px;
+  scrollbar-width: thin;
+}
+
+.MuiPopover-paper::-webkit-scrollbar-track,
+.editCountryModal::-webkit-scrollbar-track {
+  -webkit-box-shadow: #fff;
+  background-color: #ffffff;
+  scrollbar-width: thin;
+}
+
+.MuiPopover-paper::-webkit-scrollbar,
+.editCountryModal::-webkit-scrollbar {
+  width: 6px;
+  border-radius: 10px;
+  background-color: #dfe1e6;
+  scrollbar-width: thin;
+  border-radius: 10px;
+}
+
+.MuiPopover-paper::-webkit-scrollbar-thumb,
+.editCountryModal::-webkit-scrollbar-thumbx {
+  background-color: #dfe1e6;
+  scrollbar-width: thin;
+  height: 62px;
+  border-radius: 10px;
+}
+
+.mobile_back_button .MuiInput-underline {
+  float: left;
+}
+.MuiListItem-root.Mui-selected,
+.MuiListItem-root.Mui-selected:hover {
+  background: #f4f5f7;
+}
+.MuiMenuItem-root span:first-child {
+  padding-right: 20px;
+  display: inline-block;
+  float: left;
+  width: 130px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.MuiMenuItem-root {
+  font-size: 12px !important;
+}
+.MuiPaper-rounded {
+  border-radius: 10px !important;
+}
+
+.MuiSelect-select.MuiSelect-select {
+  background: url(../../../../assets/images/sprite.png) no-repeat 40px 12px;
+}
+.mobile_prefix .MuiSvgIcon-root {
+  display: none !important;
+}
+
+.MuiSwitch-root {
+  width: 32px !important;
+  height: 20px !important;
+  border-radius: 22px;
+}
+.MuiSwitch-thumb {
+  width: 16px !important;
+  height: 16px !important;
+}
+.MuiInput-underline:after {
+  border-bottom: 2px solid #0065ff;
+}
+.MuiPopover-paper {
+  max-height: 200px !important;
+}
+/* .MuiPopover-root{top: 133px !important;} */
+.mobile_error {
+  position: absolute;
+  color: red;
+  font-size: 10px;
+  bottom: -6px;
+}
+.MuiSelect-select:focus {
+  background: transparent !important;
+}
+.MuiSelect-select.MuiSelect-select {
+  text-align: left !important;
+}
+
+@media (max-width: 768px) {
+  /* .lead_text {
+    padding: 5px 25px;
+  } */
+  .traveller_scroll {
+    float: none;
+  }
+}

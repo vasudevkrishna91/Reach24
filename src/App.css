@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+.covidUpdate {
+  background-color: white;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  padding: 2%;
+  border-radius: 10px;
+  text-align: left;
+}
+
+@media only screen and (max-width: 768px) {
+  .covidUpdate {
+    width: 83%;
+  }
+}
+
+
+.covidUpdate_header {
+  display: block;
+  padding: 2% 0%;
+  border-bottom: 1px solid silver;
+  font-weight: 700;
+}
+
+.covidUpdate .button{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: orangered;
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 10px;
+}
+
+.covidUpdate a{
+  color: blue;
+  text-decoration: underline;
+}

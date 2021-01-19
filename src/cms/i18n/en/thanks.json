@@ -1,0 +1,41 @@
+{  
+	"amount":"Amount",
+	"payment_reference_id":"Payment Reference Id",
+	"payment_status":"Payment Successful !",
+	"payment_sucess_message":"Your payment has been successfully Received",
+	"destinations":"Destinations",
+	"travellers":"Travellers",
+	"travel_start_date":"Travel Start Date",
+	"travel_end_date":"Travel End Date",
+	"policy_number":"Policy Number",
+	"booking_id":"Booking ID",
+	"policy_start_date":"Policy Start Date",
+	"Policy_end_date":"Policy End Date",
+	"sum_insured":"Sum Insured",
+	"premium":"Premium",
+	"insured_details":"Insured Details",
+	"name":"Name",
+	"gender":"Gender",
+	"dob":"Date of Birth",
+	"passport":"Passport No.",
+	"contact_details":"Contact Details",
+	"experience":"How was your experience with us?",
+	"awesome":"Awesome",
+	"just_okay":"Just Okay",
+	"not_good":"Not Good",
+	"thanks_feedback":"Thanks for your feedback.",
+	"loging_my_account":"LOGIN MY ACCOUNT",
+	"get_in_touch":"GET IN TOUCH WITH US",
+	"keep_track_policy":"To keep track of your policy and after sales support",
+	"download_policybazaar":"Download Policybazaar App",
+	"view_plans":"View Plans",
+	"first_content":"1Cr life Insurance cover@490/month* only",
+	"second_content":"Over 34 plans from top 16 insurance available",
+	"lang.third_content":"Coverage assistance 40 critical Illness",
+	"lang.fourth_content":"24*7 claims assistance available"
+	
+	
+	
+	
+	  
+}
